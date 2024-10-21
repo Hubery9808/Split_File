@@ -1,5 +1,4 @@
 # Split_File
-# split_file.py
 
 ## 概述
 
